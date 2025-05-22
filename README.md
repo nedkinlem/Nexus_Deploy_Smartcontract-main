@@ -1,1 +1,2 @@
-# Nexus_Deploy_Smartcontract-main
+# Nexus-DeployNTE
+Auto Deploy Smart contract Nexus
